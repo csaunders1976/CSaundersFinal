@@ -1,0 +1,21 @@
+{
+  "name": "csaundersfinal",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csaunders1976/CSaundersFinal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csaunders1976/CSaundersFinal/issues"
+  },
+  "homepage": "https://github.com/csaunders1976/CSaundersFinal#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "description": ""
+}
